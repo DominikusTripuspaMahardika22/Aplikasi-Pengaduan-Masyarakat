@@ -4,14 +4,14 @@ Sistem Requirement :
 • Database : MySQL 
 • Server : Xampp
 
-Users Admin Login:
-Username - admin
-Password - admin
+Login Aplikasi Pengaduan Masyarakat
+===================================
+Username : admin
+Password : admin
 
-Users Petugas Login:
-Username - petugas
-Password - petugas
+Username : petugas
+Password : petugas
 
-Users Masyarakat Login:
-Username - masyarakat
-Password - masyarakat
+Username : masyarakat
+Password : masyarakat
+===================================
